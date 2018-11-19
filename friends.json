@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Marvin the Martian",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/167px-Marvin_the_Martian.svg.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "clicked": false
+  },
+  {
+    "id": 1,
+    "name": "Tweety Bird",
+    "image": "https://i.pinimg.com/originals/12/d7/8c/12d78cf5cdfdf5b89f5c3498d5c04356.gif",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Yosemite Sam",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Yosemite_Sam.svg/1200px-Yosemite_Sam.svg.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Daffy Duck",
+    "image": "http://3.bp.blogspot.com/-8mDhwCVO9cc/Va6BSmpiQDI/AAAAAAAA6I0/ZvKJkWAIfgY/s1600/Daffy005.png",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Porky Pig",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/546px-Porky_Pig.svg.png",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Foghorn Leghorn",
+    "image": "https://vignette.wikia.nocookie.net/parody/images/c/ca/Foghorn_leghorn_looney_tunes_show.png/revision/latest?cb=20150929215707",
+    "occupation": "Student",
+    "location": "Bluffington",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Sylvester",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/180px-Sylvester_the_Cat.svg.png",
+    "occupation": "Ladies Man",
+    "location": "Aron City",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Tasmanian Devil",
+    "image": "https://library.kissclipart.com/20180830/wjw/kissclipart-looney-tunes-clipart-looney-tunes-bugs-bunny-clip-9b48e7a576b1c3c5.gif",
+    "occupation": "Adventurer",
+    "location": "California",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Droopy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Droopy_dog.png",
+    "occupation": "Cashier",
+    "location": "O-Town, California",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Woody Woodpecker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Woody_Woodpecker.png/220px-Woody_Woodpecker.png",
+    "occupation": "Superhero",
+    "location": "Earth",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Coyote",
+    "image": "https://upload.wikimedia.org/wikipedia/ms/thumb/2/20/Wile_E_Coyote.gif/150px-Wile_E_Coyote.gif",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump",
+    "clicked": false
+  }
+]
